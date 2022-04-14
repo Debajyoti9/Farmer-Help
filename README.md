@@ -22,10 +22,7 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 - [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
-## Notebooks 📓
-##### I have also published the corresponding code on Kaggle Notebooks.
-- [Crop Recommendation](https://www.kaggle.com/atharvaingle/what-crop-to-grow)
-- [Disease Detection](https://www.kaggle.com/atharvaingle/plant-disease-classification-resnet-99-2)
+
 
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -47,7 +44,6 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 
 #### Deployment is done using [deploy](https://github.com/Gladiator07/Harvestify/tree/deploy) branch
 #### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [here](https://harvestify.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## How to use 💻
@@ -100,19 +96,6 @@ Note that, for now it only supports following crops
   ```
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
 ## DEMO
-
-- ### Crop recommendation system
-
-![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
-- ### Fertilizer suggestion system
-
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
-
-
-- ### Disease Detection system
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
-
 
 
 ## Contribute 👨‍💻
